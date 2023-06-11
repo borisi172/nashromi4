@@ -56,20 +56,22 @@ color: #EF6D58; ;
     margin-left: 640.7px;
     margin-top: 101px;
 }
-.tqst{
-margin-left: 30px;
-}
 .text2 h2{
     font-size: 56px;
     padding-left: 500px;
     padding-bottom:66px ;
 }
-.fot2{
+.fot2 div{
     background-color:yellow;
-    display:inline-block;
+    display:flex;
+    font-size:12px;
+    align-items: center;
 }
-.foot2{
+.foot2 div{
+    margin-left: 100px;
     background-color: green;
-    display:inline-block;
+    display: flex;
 }
-
+.text3{
+    margin-left: 100px;
+}
