@@ -1,7 +1,13 @@
-body{
-    background-color:#28293E;
+.section1{
+     background-color:#28293E; 
     padding-left:135px ; 
-    padding-right:135px;
+    padding-right:135px ;
+}
+
+.section2{
+    background-color:#FDF0E9; 
+   padding-left:135px ; 
+   padding-right:135px;
 }
 
 header{
@@ -44,3 +50,15 @@ color: #EF6D58; ;
     padding-top: 10px;
     color: #FFFFFFA3;
 }
+.text2 h1{
+    font-size: 16px;
+    margin-bottom:88px;
+    margin-left: 640.7px;
+    margin-top: 101px;
+}
+.text2 h2{
+    font-size: 56px;
+    padding-left: 500px;
+    padding-bottom:66px ;
+}
+
