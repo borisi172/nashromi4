@@ -103,6 +103,29 @@ article{
     color:#FFFFFF;
 }
 .section3{
-    
+
     background-color: #28293E;
+}
+
+.section4 header{
+    padding-left: 135px;
+    padding-right: 135px;
+    background-color:#FDF0E9;
+}
+.fot7 img{
+    padding-top: 188px;
+}
+.padding{
+    padding-top: 100px;
+    padding-right: 100px;
+}
+.padding h2{
+    padding-top: 16px;
+    padding-bottom: 25px;
+}
+.padding h3{
+    padding-bottom: 20px;
+}
+.padding p{
+    padding-bottom: 55px;
 }
