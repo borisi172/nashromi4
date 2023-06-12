@@ -86,3 +86,22 @@ article{
     display: flex;
     margin-left: 500px ;
 }
+.section3 header{
+    padding-left: 135px;
+    padding-right: 135px;
+    background-color:#28293E;
+    padding-bottom: 82px;
+    padding-top: 117px;
+}
+.section03 h1{
+    font-size: 16px;
+    color: #EF6D58;
+}
+.section03 h2{
+    font-size: 56px;
+    padding-top: 15px;
+    color:#FFFFFF;
+}
+.section3{
+    background-color: #28293E;
+}
