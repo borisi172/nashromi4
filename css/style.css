@@ -1,13 +1,13 @@
 .section1{
      background-color:#28293E; 
-    padding-left:135px ; 
-    padding-right:135px ;
+     padding-left:135px ; 
+     padding-right:135px ;
 }
 
 .section2{
     background-color:#FDF0E9; 
-   padding-left:135px ; 
-   padding-right:135px;
+    padding-left:135px ; 
+    padding-right:135px;
 }
 
 header{
@@ -25,11 +25,11 @@ article{
     display:flex;
 }
 .li li{
-margin-left: 150px;
+    margin-left: 150px;
 }
 .text{
-margin-top: 200px ;
-font-family: 'Epilogue', sans-serif;
+    margin-top: 200px ;
+    font-family: 'Epilogue', sans-serif;
 }
 .text h2{
     padding-top: 10px;
@@ -40,11 +40,11 @@ font-family: 'Epilogue', sans-serif;
     font-size: 16px;
 }
 .foto1{
-margin-left: 144px;
+    margin-left: 144px;
 }
 .text h1,.nav1{
     padding-top: 10px;
-color: #EF6D58; ;
+    color: #EF6D58; ;
 }
 .text p{
     padding-top: 10px;
