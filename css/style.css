@@ -107,7 +107,8 @@ article{
     background-color: #28293E;
 }
 
-.section4 header{
+.section4 header,.footer1
+{
     padding-left: 135px;
     padding-right: 135px;
     background-color:#FDF0E9;
@@ -128,4 +129,24 @@ article{
 }
 .padding p{
     padding-bottom: 55px;
+}
+.footer1{
+    background-color:yell ;
+    display:flex;
+    padding-top: 174px;
+    padding-bottom: 112px;
+}
+.footer1 img{
+    background-color:#EF6D58;
+}
+.fot8{
+    padding-left: 50px;
+}
+.fot9{
+    padding-left: 450px;
+}.fot8 div{
+    padding-left: 10px;
+}
+.fot9 div{
+    padding-left: 10px;
 }
