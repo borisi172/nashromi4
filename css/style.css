@@ -18,13 +18,13 @@ header{
     justify-content:space-between;
     align-items: center;
 }
-.logo,nav,li{
+.logo,nav ,li{
     display:inline-block;
 }
 article{
     display:flex;
 }
-.li li{
+.li1 li{
     margin-left: 150px;
 }
 .text{
@@ -149,4 +149,9 @@ article{
 }
 .fot9 div{
     padding-left: 10px;
+}
+.section5 header{
+    background-color: yellowgreen;
+    padding-left: 135px;
+    padding-right: 135px;
 }
