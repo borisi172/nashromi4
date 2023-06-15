@@ -151,6 +151,7 @@ article{
     padding-left: 10px;
 }
 .section5{
+    padding-bottom: 159px;
     padding-top: 162px;
     display: flex;
     background-color:#28293e;
@@ -170,4 +171,37 @@ article{
 .section05 p{
     padding-bottom: 20px;
     font-size: 20p;
+}
+.li2 div{
+    padding-top: 20px;
+}
+.fot10{
+    padding-left: 150px;
+}
+.text5{
+    padding-left: 135px;
+    padding-right: 135px;
+    padding-top:47px ;
+    padding-bottom: 47px;
+    background-color:#F9E5DA;
+    display:flex;
+}
+.text5 img{
+    padding-left:150px;
+}
+.text05{
+    color:#391400A3 ;
+    font-size: 16px;
+    padding-left: 100px;
+    margin-top: 110px;
+}
+.text005{
+    color: #EF6D58;
+    padding-top: 70px;
+}
+.text005 h2{
+    color:#391400 ;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
