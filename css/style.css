@@ -1,3 +1,6 @@
+body{
+    font-family: 'Epilogue', sans-serif;
+}
 .section1{
      background-color:#28293E; 
      padding-left:135px ; 
@@ -18,9 +21,18 @@ header{
     justify-content:space-between;
     align-items: center;
 }
+
+.border01{
+    font-size: 12px;
+    border: 2px solid #3A3C56;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
 .logo,nav ,li{
     display:inline-block;
 }
+
 article{
     display:flex;
 }
@@ -33,7 +45,7 @@ article{
 }
 .text h2{
     padding-top: 10px;
-    font-size:72px ;
+    font-size:75px ;
     color:#FFFFFF ;
 }
 .text p{
@@ -49,6 +61,14 @@ article{
 .text p{
     padding-top: 10px;
     color: #FFFFFFA3;
+}
+.nav1{
+    font-size: 12px;
+    border: 2px solid #3A3C56;
+    background-color: #EF6D58;
+    border-radius: 10px;
+    padding:10px;
+    color:#FFFFFF ;
 }
 .text2 h1{
     font-size: 16px;
@@ -86,9 +106,12 @@ article{
     display: flex;
     margin-left: 500px ;
 }
-.section3 header{
+.section3{
     padding-left: 135px;
     padding-right: 135px;
+}
+
+.section3 header{ 
     background-color:#28293E;
     padding-bottom: 82px;
     padding-top: 117px;
@@ -101,6 +124,26 @@ article{
     font-size: 56px;
     padding-top: 15px;
     color:#FFFFFF;
+}
+img{
+    max-width: 100%;
+
+}
+
+
+.portfolio-item{
+    width: 400px;
+    width: 33.33;
+    padding: 5px;
+    border: 3px solid #3A3C56;
+    position: relative;
+}
+
+.portfolio-title{
+    position:absolute;
+    color: #FDF0E9;
+    padding-left: 20px;
+    padding-bottom: 30px;
 }
 .section3{
 
@@ -115,6 +158,14 @@ article{
 }
 .fot7 img{
     padding-top: 188px;
+}
+.nav11{
+    font-size: 12px;
+    border: 2px solid#F9E5DA ;
+    background-color: #EF6D58;
+    border-radius: 10px ;
+    padding:10px;
+    color:#FFFFFF ;
 }
 .padding{
     padding-top: 100px;
@@ -204,4 +255,32 @@ article{
     font-size: 24px;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+.section6{
+    display: flex;
+    background-color:green;
+    padding-left: 135px;
+    padding-right: 135px;
+    padding-bottom: 300px;
+}
+.section06{
+    color: #EF6D58;
+    padding-left: 500px;
+    padding-top: 100px;
+}
+.section06 h2{
+    color:#391400 ;
+    font-size: 56px;
+}
+.section06 h1{
+    padding-left: 40px;
+    padding-bottom: 15px;
+}
+.nav10{
+    font-size: 12px;
+    border: 2px solid#F9E5DA ;
+    background-color: #EF6D58;
+    border-radius: 10px;
+    padding:10px;
+    color:#FFFFFF ;
 }
