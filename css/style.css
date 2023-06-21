@@ -137,6 +137,7 @@ img{
     padding: 5px;
     border: 3px solid #3A3C56;
     position: relative;
+    overflow:hidden;
 }
 
 .portfolio-title{
@@ -145,7 +146,9 @@ img{
     left: 30px;
     color: #FDF0E9;
     transition: relative;
+    transition: all .6s;
 }
+
 
 .portfolio-title div{
     border: 3px solid #FFFFFF;
@@ -163,7 +166,12 @@ img{
 }
 .portfolio-item:hover .portfolio-title :hover{
     padding-bottom: 35%;
-
+    background-color: red;
+    transform: scale(1.2);
+    transform: rotate(2000deg);
+}
+.portfolio-item:hover img{
+    transform: scale(1.2);
 }
 
 
@@ -200,7 +208,6 @@ img{
     padding-bottom: 55px;
 }
 .footer1{
-    background-color:yell ;
     display:flex;
     padding-top: 174px;
     padding-bottom: 112px;
@@ -283,3 +290,65 @@ img{
     padding:10px;
     color:#FFFFFF ;
 }
+
+.section6{
+    background-color:#FDF0E9;
+    padding-left: 135px;
+    padding-right: 135px;
+}
+.section06{
+    display: inline-block;
+    padding-left: 400px;
+    text-align: center;
+}
+.section06 h1{
+    color: #EF6D58;
+    font-size: 16px;
+    padding-top: 35px;
+    padding-bottom: 15px;
+}
+.section06 h2{
+    color:#391400 ;
+    font-size: 56px;
+}
+
+
+.section006{
+    padding-top: 67px;
+    padding-bottom: 150px;
+    display: flex;
+    
+}
+.graham, .alan, .richardo{
+    
+    border:2px solid #F9E5DA; 
+    padding: 60px;
+}
+.grahamfot, .alanfot, .richardofot{
+    display: flex;
+}
+.section006 h2{
+    font-size: 24px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.section006h3{
+    font-size: 16px;
+}
+.graham p, .alan p, .richardo p{
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.linkall{
+    display:inline-block;
+    border: 2px solid black;
+    background-color: #EF6D58;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 12px;
+    padding-left:25px ;
+    padding-right: 25px;
+
+    
+}
+.link{}
