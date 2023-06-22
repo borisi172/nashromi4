@@ -378,3 +378,48 @@ left: 700px;
 .richardo:hover{
     background-color: saddlebrown;
 }
+
+
+
+.section7{
+    display: flex;
+    padding-left: 135px;
+    padding-right: 135px;
+    padding-top: 160px;
+    padding-bottom: 50px;
+    background-color:#28293E;
+    color: #FFFFFF;
+}
+.section07 h1{
+    color: #EF6D58;
+    font-size: 16px;
+    letter-spacing: 3px;
+    padding-bottom: 20px;
+}
+.section07 h2{
+    color:#FFFFFF ;
+    font-size: 40px;
+    letter-spacing: 0px;
+    padding-bottom: 30px;
+}
+.section07 p{
+    color:#FFFFFFA3 ;
+    font-size: 16px;
+    letter-spacing: 0px;
+    padding-bottom: 30px;
+}
+.section07 div{
+    color:#FFFFFF ;
+    font-size: 16px;
+}
+.section007{
+padding-left:250px;
+}
+.section007 h2{
+    font-size: 24px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.section007{
+    border: 1px solid #3A3C56;
+}
