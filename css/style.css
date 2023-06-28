@@ -576,4 +576,12 @@ transform: scale(110%);
 }
 .section0081 .foto17:hover{
     transform: scale(110%);
-    }
+}
+.section0008 h5:hover{
+    background-color: yellowgreen;
+}
+.section0008 h4:hover{
+    transform:scale(110%) ;
+    background-color: green;
+    color: red;
+}
