@@ -437,7 +437,7 @@ justify-content: space-between;
 
 
 .section8{
-    background-color: green;
+    background-color:#FDF0E9;
     padding-left: 135px;
     padding-right: 135px;
 
@@ -459,11 +459,96 @@ justify-content: space-between;
     color: #391400;
 }
 .section08 h3{
-    border: 3px solid red;
+    border: 3px solid#39140014 ;
     justify-content: flex-end;
     font-size: 12px;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color:#FFFFFF ;
     color:#391400;
+}
+.section008{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 67px;
+
+}
+.section0080 h3{
+font-size: 18px;
+color:#391400 ;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.section0080 h2{
+    font-size: 30px;
+    color: #391400;
+    width: 65%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.section0080 div{
+    font-size: 14px;
+    color: #391400A3;
+    padding-top: 10px;
+    padding-bottom: 70px;
+}
+.section0081 h3{
+    font-size: 18px;
+    color:#391400 ;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+.section0081 h2{
+    font-size: 24px;
+    color:#391400 ;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+.section0081 div{
+    font-size: 14px;
+    color:#391400A3 ;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+.section0008{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rebeccapurple;
+}
+.section0082 h2{
+    font-size: 20px;
+    color:#391400 ;
+    padding: 10px;
+}
+.section0008 h3{
+    font-size: 14px;
+    color: #391400A3;
+    padding-top: 10px;
+}
+.section0008 h5{
+    font-size: 12px;
+    border: 1px solid #F3D1BF;
+    background-color:#FFFFFF ;
+    color:#391400A3 ;
+    border-radius: 6px;
+    padding:10px;
+    padding-left: 15px;
+    padding-right:370px;
+
+}
+.section0008 h4{
+    font-size: 14px;
+    border: 1px solid#F3D1BF ;
+    background:#FFFFFF ;
+    color:#391400 ;
+    border-radius: 6px;
+    padding:10px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
