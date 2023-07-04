@@ -603,8 +603,11 @@ transform: scale(110%);
 }
 .border9{
     padding-left: 40px;
-    border: 1px solid #FFFFFF;
+    border: 1px solid #FFFFFf;
     border-radius: 6px;
+}
+.now{
+    padding-left: 400px;
 }
 .border9 div{
     padding-top: 15px;
