@@ -600,42 +600,38 @@ transform: scale(110%);
     background-color:#28293E ;
     justify-content:space-between;
 }
+.border9{
+    background-color:#FFFFFF;
+    border: 1px solid #F3D1BF;
+    border-radius: 6px;
+    width: 100%;
+}
 .border9 h2{
     font-size: 24px;
     color: #391400;
     font-weight: bold;
 }
-
-.border9{
-    background-color:#FFFFFF;
-    padding: 40px;
-    border: 1px solid #F3D1BF;
-    border-radius: 6px;
-    width: 100%;
-}
-.border9 .touch{
+.formaction{
     border: 1px solid #F3D1BF;
     border-radius: 6px;
     padding: 10px;
     width: 100%;
-
 }
-.border9 form{
-    padding: 10px;
-}
-
-
 .border9 button{
     display: flex;
-    justify-content: flex-end;
     border: 1px solid #EF6D58;
     background-color:#EF6D58;
     border-radius: 6px;
-    padding: 10px;
-    
-    
-
+    padding: 10px;  
 }
+.border555{
+    padding: 50px;
+}
+.border555 form{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 
 
 
@@ -645,8 +641,10 @@ transform: scale(110%);
 .section09{
     display: flex;
     flex-direction: column;
-    padding-left: 150px;
     width:100%;
+}
+.section32323{
+    padding-left: 100px;
 }
 .section09 h3{
     font-size: 16px;
