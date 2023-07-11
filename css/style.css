@@ -603,7 +603,7 @@ transform: scale(110%);
     background-color:#FFFFFF;
     border: 1px solid #F3D1BF;
     border-radius: 6px;
-    width: 100%;
+    width:100%;
 }
 .border9 h2{
     font-size: 24px;
@@ -742,6 +742,11 @@ transform: scale(110%);
 }
 .fot200{
     display:flex;
-    width: 16.666%;
+    width:100%;
 }
+@media only screen and (max-width: 600px) {
+    .section09{
+      width: 100%;
+    }
+  }
 
