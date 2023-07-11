@@ -615,6 +615,7 @@ transform: scale(110%);
     border-radius: 6px;
     padding: 10px;
     width: 100%;
+    box-sizing: border-box;
 }
 .border9 button{
     display: flex;
@@ -746,9 +747,11 @@ transform: scale(110%);
     width:16.666;
 }
 @media only screen and (max-width: 1000px) {
-    {
-      
+    
+    .border9 {
+        width:100%;
+      }
 
-    }
+    
   }
 
